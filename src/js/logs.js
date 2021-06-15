@@ -9,4 +9,3 @@ const defaultClient = new Client();
 export default defaultClient; //
 
 console.log('logs executed');
-

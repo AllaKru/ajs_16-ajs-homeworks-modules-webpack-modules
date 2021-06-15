@@ -9,6 +9,9 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+    "no-console": [
+      "off"
+  ]
   }
 }
